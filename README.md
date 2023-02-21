@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-<!--
-**ungkuamer/ungkuamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Currently learning Machine Learning and C++
+most repo are my class courseworks that acts a trail in case i'm accused of something,
+this also served as a time capsule for future me to see how far i have progressed.
